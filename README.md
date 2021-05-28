@@ -1,6 +1,6 @@
 ## Natours
  
-SCSS project for a traveling site. You can see the project live [HERE](https://marlonry.github.io/Natours/)!!!
+SCSS project for a traveling site. You can see the project live [HERE](https://strivemspr.github.io/Natours/)!!!
 
 ## What I Practiced on This Project
 
