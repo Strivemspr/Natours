@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marlonry/Natours.git"
+    "url": "git+https://github.com/Strivemspr/Natours.git"
   },
   "author": "Marlon",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marlonry/Natours/issues"
+    "url": "https://github.com/Strivemspr/Natours/issues"
   },
-  "homepage": "https://github.com/marlonry/Natours#readme",
+  "homepage": "https://github.com/Strivemspr/Natours#readme",
   "dependencies": {},
   "devDependencies": {
     "node-sass": "^4.12.0"
